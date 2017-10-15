@@ -2,7 +2,7 @@
 layout: post
 title: "Ускорение нейронных сетей с помощью тензорных разложений"
 date: 2017-09-30
-excerpt: "Ускорение нейронных сетей с помощью тензорных разложений"
+excerpt: "Ефим Боеру"
 tags: [tensor, tensortrain, deeplearning, neuralnetworks]
 comments: false
 ---
